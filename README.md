@@ -1,4 +1,7 @@
 # Dani Store
+### Live Demo
+You can view the live project by clicking the link below:
+[CaféBar on Netlify](https://cheery-trifle-84d3c2.netlify.app/)
 
 **Dani Store** is a web store dedicated to selling custom sweaters with logos of different programming languages. This store is designed using HTML and CSS, offering a simple and visually appealing experience for programming enthusiasts who want to showcase their favorite language everywhere.
 
